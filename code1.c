@@ -28,7 +28,7 @@ int main()
     printf("Digite seu nome: \n");
     scanf("%s", ficha1.nome);
     fflush(stdin);
-    printf("Digite seu endereço:\n");
+    printf("Digite seu endereÃ§o:\n");
     scanf("%s", ficha1.endereco);
      fflush(stdin);
     printf("Digite seu email:\n");
@@ -56,7 +56,7 @@ int main()
     printf("\n");
 
     printf("Nome: %s\n", ficha1.nome);
-    printf("Endereço: %s\n", ficha1.endereco);
+    printf("EndereÃ§o: %s\n", ficha1.endereco);
     printf("E-mail: %s\n", ficha1.email);
     printf("Idade: %d\n", ficha1.idade);
     printf("CPF: %d\n", ficha1.cpf);
