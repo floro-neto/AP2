@@ -3,7 +3,13 @@
 
 Aqui estão alguns codigos feitos usando C:
 
-- [Code1]()
+- [Code1](https://github.com/floro-neto/AP2/blob/main/code1.c)
+- [Code2](https://github.com/floro-neto/AP2/tree/main/code2)
+- [Code3](https://github.com/floro-neto/AP2/tree/main/code3)
+- [Code4](https://github.com/floro-neto/AP2/tree/main/code4)
+- [Code5](https://github.com/floro-neto/AP2/tree/main/code5)
+- [Code6](https://github.com/floro-neto/AP2/tree/main/code6)
+- [Code7](https://github.com/floro-neto/AP2/tree/main/code7)
 
 
 Projeto final de AP2 / Final project done in AP2:
