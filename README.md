@@ -17,12 +17,12 @@ Aqui estão alguns codigos feitos usando C:
 - [Code7](https://github.com/floro-neto/AP2/tree/main/code7)
 
 
-Projeto final de AP2 / Final project done in AP2:
+## Projeto final de AP2 / Final project done in AP2:
 About GIGGA2: GIGGA2 is a simple software capable of storing student data, editing it and displaying it in a class with more than 50 students, now using files to store data. GIGGA2 is inspired by the website called SIGAA.
 
 - [GIGGA2](https://github.com/floro-neto/AP2/tree/main/GIGGA2)
 
-Sobre linguagem C / About C language:
+## Sobre linguagem C / About C language:
 
 - [About C](https://www.sololearn.com/en/learn/courses/c-introduction)
 
