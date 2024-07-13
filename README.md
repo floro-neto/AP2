@@ -1,6 +1,11 @@
 ## Codigos feitos em AP2 usando C 
 ## Some codes made in C on Algorithms and Programming 2 class
 
+IDE que usei para C / IDE that used for programing in C:
+
+- [Code blocks](https://www.codeblocks.org/)
+- [Dev-C++](https://www.bloodshed.net/)
+
 Aqui estão alguns codigos feitos usando C:
 
 - [Code1](https://github.com/floro-neto/AP2/blob/main/code1.c)
